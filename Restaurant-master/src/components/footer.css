@@ -1,0 +1,42 @@
+.container2 {
+  width: 100%; /* This will make the container take the full width of the page */
+  margin: 0; /* This will remove any automatic margins */
+  padding: 0; /* This will remove any padding */
+}
+
+.footer-basic {
+  background-color: #343a40;
+  padding: 40px 0;
+  color: #fff;
+  text-align: center;
+  width: 100%; /* This will make the footer take the full width of the page */
+}
+
+.list-inline {
+  list-style-type: none;
+  padding-left: 0;
+  text-align: center;
+}
+
+.list-inline-item {
+  display: inline-block;
+}
+
+.list-inline-item a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.list-inline-item a:hover {
+  color: #ddd;
+}
+
+.copyright {
+  margin-top: 20px;
+  font-size: 13px;
+  color: #aaa;
+}
+
+.list-inline-item {
+  margin-right: 20px; /* Adjust as needed */
+}

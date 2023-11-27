@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ce17989.css",
+    "main.js": "/static/js/main.e60e7224.js",
+    "static/js/787.390825f8.chunk.js": "/static/js/787.390825f8.chunk.js",
+    "static/media/vegetables-set-left-black-slate.jpg": "/static/media/vegetables-set-left-black-slate.f28aca96eef193d9160d.jpg",
+    "static/media/Instagram-Outline.png": "/static/media/Instagram-Outline.8894dfcf2781d88a432b.png",
+    "static/media/Services-Pic.jpg": "/static/media/Services-Pic.8161b218de5ba2ceb65a.jpg",
+    "static/media/Email.jpg": "/static/media/Email.3d58973dc8373e3bdabf.jpg",
+    "static/media/contact.jpeg": "/static/media/contact.9e51ee5f8e7346deb8de.jpeg",
+    "static/media/Table.jpeg": "/static/media/Table.fd44713236361a0af2f7.jpeg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.5ce17989.css.map": "/static/css/main.5ce17989.css.map",
+    "main.e60e7224.js.map": "/static/js/main.e60e7224.js.map",
+    "787.390825f8.chunk.js.map": "/static/js/787.390825f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce17989.css",
+    "static/js/main.e60e7224.js"
+  ]
+}

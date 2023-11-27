@@ -1,0 +1,67 @@
+.navbar-list {
+  font-size: large;
+  display: flex;
+  justify-content: center; /* This will center the items horizontally */
+  align-items: center; /* This will center the items vertically */
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-item {
+  margin-right: 35px; /* Adjust as needed */
+}
+
+.navbar-item a {
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s ease; /* This will animate the color change */
+}
+
+.navbar-item a:hover {
+  color: #555;
+  text-decoration: underline;
+}
+
+.navbar {
+  position: relative;
+  left: 43%;
+}
+
+
+
+/* CSS */
+.button-74 {
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 15px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 15px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-74:hover {
+  background-color: #fff;
+}
+
+.button-74:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+@media (min-width: 768px) {
+  .button-74 {
+    min-width: 120px;
+    padding: 0 25px;
+  }
+}
